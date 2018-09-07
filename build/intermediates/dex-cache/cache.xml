@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Emma/.android/build-cache/dd826a885b03b019a8c820b380d0074864d64b7d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3cf5f3ef609f5d154e4f0a9373efb7c0fdd8852/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Emma/.android/build-cache/7e6944162a2a5f0216d6e426fd674deed19f7942/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f703eb7ca992df019a491dd4f7f9f07c6be794fe">
+        <dex dex="/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e68db35ec100383dfb2897a8fba4c55045c9862/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Emma/.android/build-cache/4356b0b443156fffc867e5f56a318225df0a36d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1bc30a8746a82b48984738469998248186d02ff4">
+        <dex dex="/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_070dfda9a637b214fc0ded05be3c863a01f7b8ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa6636d13f3ef8bd240a8acae1d70e5de450de5f">
+        <dex dex="/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e785515e5a8db4974d9e4d272598de8b43fe0988/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Emma/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.4.1/df470d263438048af74860ca51fc497c16a0c76a/gdx-1.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df470d263438048af74860ca51fc497c16a0c76a">
+        <dex dex="/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.4.1_3813a37445252cc0b0a9196f3a3755c907ee6283/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Emma/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.5/2852e6e05fbb95076fc091f6d1780f1f8fe35e0f/commons-io-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.5_d719d507a6202569a191bba8bdfff5e6b20297d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Emma/.android/build-cache/dd826a885b03b019a8c820b380d0074864d64b7d/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_58ac4391cc2e92b4231f2a29fc53f426aa7dac46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Emma/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_2bff6b913e47e50e63a80f618b8dbceee09c1d5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Emma/.android/build-cache/ac8d88153cd58bd0343a339539d1a040cc2ffe67/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a04a53c9f0222f903c2b4828a1ad88677f3107a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Emma/.gradle/caches/modules-2/files-2.1/com.eclipsesource.minimal-json/minimal-json/0.9.1/9b409b88e38b11519ce3334cbcdda361462ac72d/minimal-json-0.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9b409b88e38b11519ce3334cbcdda361462ac72d">
+        <dex dex="/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10/minimal-json-0.9.1_eea15cad514b5bbeffb41006ae97c0cb4b9876e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Emma/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.4_08c5773adbd261471c1433c155f306c8d13729b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Emma/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_0516344162753dc342f238b6f2846f8252a287b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Emma/.android/build-cache/7af94f7089c9ba3be01c6b313cce22b8e1eb1f4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffd7db77ca5578c4e33c44ee1408f179421cf316">
+        <dex dex="/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b15d46a2d76353e0889876758edc0dc9109a4218/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Emma/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.4.1/eca2621f18b162c03992bd3ecc226e8a477dc6f9/gdx-backend-android-1.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eca2621f18b162c03992bd3ecc226e8a477dc6f9">
+        <dex dex="/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.4.1_0a67c7eb9d7538836644c0461d8d1ef2e885c6b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cb1b777645bff375d1764b976082fe1b321a5f09/classes.dex" />
+    </item>
+
+</items>

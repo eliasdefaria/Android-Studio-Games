@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_box_contentsdk_add_grey_24dp.png",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/box-content-sdk/build/intermediates/bundles/default/res/drawable-hdpi-v4/ic_box_contentsdk_add_grey_24dp.png"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/boxsdk_thumb_background.xml",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/box-content-sdk/build/intermediates/bundles/default/res/drawable-hdpi-v4/boxsdk_thumb_background.xml"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/boxsdk_dialog_warning.png",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/box-content-sdk/build/intermediates/bundles/default/res/drawable-hdpi-v4/boxsdk_dialog_warning.png"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/boxlogo_white.png",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/box-content-sdk/build/intermediates/bundles/default/res/drawable-hdpi-v4/boxlogo_white.png"
+    }
+]

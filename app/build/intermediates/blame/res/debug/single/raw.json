@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/raw/brick_hit.ogg",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/app/src/main/res/raw/brick_hit.ogg"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/raw/explosive_brick.ogg",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/app/src/main/res/raw/explosive_brick.ogg"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/raw/fruit_sound.ogg",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/app/src/main/res/raw/fruit_sound.ogg"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/raw/save.wav",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/app/src/main/res/raw/save.wav"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/raw/lost_life.ogg",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/app/src/main/res/raw/lost_life.ogg"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/raw/sfx_deathscream_robot1.wav",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/app/src/main/res/raw/sfx_deathscream_robot1.wav"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/raw/paddle_hit.ogg",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/app/src/main/res/raw/paddle_hit.ogg"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/raw/sfx_movement_jump6.wav",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/app/src/main/res/raw/sfx_movement_jump6.wav"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/raw/wall_hit.ogg",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/app/src/main/res/raw/wall_hit.ogg"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/raw/victory_fanfare.ogg",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/app/src/main/res/raw/victory_fanfare.ogg"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/raw/droidcrash.wav",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/app/src/main/res/raw/droidcrash.wav"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/raw/positive.wav",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/app/src/main/res/raw/positive.wav"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/raw/eatpastry.wav",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/app/src/main/res/raw/eatpastry.wav"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/res/merged/debug/raw/droidjump.wav",
+        "source": "/Users/Emma/Downloads/delta-brucewayne/app/src/main/res/raw/droidjump.wav"
+    }
+]

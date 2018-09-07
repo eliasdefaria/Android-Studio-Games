@@ -1,0 +1,113 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/ScrollView01"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    tools:context="phoenix.delta.SessionPrep">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:background="@drawable/delta_logo"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/enter_student_id"
+        android:text="@string/enter_student"
+        android:textSize="50sp"
+        android:textColor="@android:color/black"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:id="@+id/subjectID"
+        android:hint="@string/enter_studID_here"
+        android:imeOptions="flagNoExtractUi"
+        android:background="#64ffffff"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:id="@+id/select_schools"
+        android:text="@string/select_schools"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"/>
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner"
+        android:spinnerMode="dropdown"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:clickable="true"
+        android:textSize="20sp"
+        android:background="#64ffffff"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:id="@+id/RAID"
+        android:hint="@string/enter_RAID_here"
+        android:imeOptions="flagNoExtractUi"
+        android:background="#64ffffff"
+        android:textSize="20sp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:textSize="20sp"
+        android:id="@+id/RAPassword"
+        android:background="#64ffffff"
+        android:hint="@string/enter_RAPassword_here"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/start_session"
+        android:id="@+id/start_btn"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/white_button"
+        android:textSize="20sp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/cancel"
+        android:id="@+id/cancel_btn"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/white_button"
+        android:textSize="20sp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/onedrive_login"
+        android:id="@+id/onedrive_btn"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/white_button"
+        android:textSize="20sp"/>
+
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/box-content-sdk/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/Emma/.android/build-cache/ac8d88153cd58bd0343a339539d1a040cc2ffe67/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/box-content-sdk/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Emma/.android/build-cache/ac8d88153cd58bd0343a339539d1a040cc2ffe67/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/box-content-sdk/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/Emma/.android/build-cache/ac8d88153cd58bd0343a339539d1a040cc2ffe67/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/box-content-sdk/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/Emma/.android/build-cache/ac8d88153cd58bd0343a339539d1a040cc2ffe67/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/box-content-sdk/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Emma/.android/build-cache/ac8d88153cd58bd0343a339539d1a040cc2ffe67/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Emma/Downloads/delta-brucewayne/box-content-sdk/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/Emma/.android/build-cache/ac8d88153cd58bd0343a339539d1a040cc2ffe67/output/res/anim/abc_fade_in.xml"
+    }
+]

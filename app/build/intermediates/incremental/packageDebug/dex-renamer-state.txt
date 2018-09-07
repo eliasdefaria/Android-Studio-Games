@@ -1,0 +1,7 @@
+#Wed Jul 26 17:07:32 PDT 2017
+base.0=/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cb1b777645bff375d1764b976082fe1b321a5f09
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e785515e5a8db4974d9e4d272598de8b43fe0988/classes.dex
+base.1=/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e785515e5a8db4974d9e4d272598de8b43fe0988
+file.0=/Users/Emma/Downloads/delta-brucewayne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cb1b777645bff375d1764b976082fe1b321a5f09/classes.dex

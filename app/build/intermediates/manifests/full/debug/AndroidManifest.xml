@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="phoenix.delta"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="21" />
+
+    <!-- Internet permission for OneDrive -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.sony.mobile.permission.SYSTEM_UI_VISIBILITY_EXTENSION" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" /> <!-- No permission needed for -->
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/xxhic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="phoenix.delta.SessionPrep"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="phoenix.delta.SessionStartActivity"
+            android:label="@string/title_activity_session_start" >
+        </activity>
+        <activity
+            android:name="phoenix.delta.FreePlaySelection"
+            android:label="@string/title_activity_free_play_selection" >
+        </activity>
+        <activity
+            android:name="phoenix.delta.GameSelection"
+            android:label="@string/title_activity_game_selection" >
+        </activity>
+        <activity
+            android:name="phoenix.delta.TrialMain"
+            android:label="@string/trial_main" >
+        </activity>
+        <activity
+            android:name="phoenix.delta.ForcedTrial"
+            android:label="@string/trial_forced" >
+        </activity>
+        <activity
+            android:name="phoenix.delta.TrialSelection"
+            android:label="@string/title_activity_trial_selection" >
+        </activity>
+        <activity
+            android:name="droidrunjump.DroidRunJumpActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="phoenix.delta.TrialWaitActivity"
+            android:hardwareAccelerated="false"
+            android:label="@string/title_activity_trial_wait" >
+        </activity>
+        <activity
+            android:name="com.box.androidsdk.content.auth.OAuthActivity"
+            android:label="@string/accounts"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="phoenix.delta.DoneSessionActivity"
+            android:label="@string/title_activity_done_session" >
+        </activity>
+        <activity
+            android:name="phoenix.delta.DoneFileUpload"
+            android:label="@string/title_activity_done_file_upload" >
+        </activity>
+
+        <!-- Fruit Ninja Game -->
+        <activity
+            android:name="dev.emmaguy.fruitninja.ui.MainActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+        </activity>
+
+        <!-- Brick Breaker Game -->
+        <activity
+            android:name="br.usp.ime.retrobreaker.GameActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/GameTheme" >
+        </activity>
+        <activity
+            android:name="br.usp.ime.retrobreaker.MainActivity"
+            android:label="@string/title_rb_main"
+            android:screenOrientation="sensorPortrait" >
+        </activity>
+        <activity
+            android:name="com.mystery_of_orient_express.game.android.AndroidLauncher"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="@string/moe_app_name"
+            android:screenOrientation="landscape" >
+        </activity>
+    </application>
+
+</manifest>
